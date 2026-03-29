@@ -1,0 +1,11 @@
+{
+  "description": "FinTrack - AI-powered Personal Finance Tracker",
+  "repo": "https://github.com/santhoshraj706/fintrack",
+  "owner": {
+    "username": "santhoshraj706",
+    "email": "santhoshrajtce@gmail.com"
+  },
+  "record": {
+    "CNAME": "fintrack-expensetracker.vercel.app"
+  }
+}
